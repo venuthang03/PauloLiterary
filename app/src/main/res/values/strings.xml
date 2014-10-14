@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PauloLiterary</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_items">no items to display!</string>
+    
+    <string-array name="paulo_books">
+        <item>Alchemist</item>
+        <item>Aleph</item>
+        <item>Manuscripts found in accra</item>
+        <item>Veronica decides to die</item>
+        <item>Winner Stands Alone</item>
+    </string-array>
+
+</resources>
